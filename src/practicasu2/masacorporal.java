@@ -23,8 +23,6 @@ public class masacorporal {
 				+ "Peso normal = 18.5–24.9\r\n"
 				+ "Sobrepeso = 25–29.9\r\n"
 				+ "Obesidad = IMC de 30 o más");
-		
-		
 		 
 	}
 }
